@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "name": "blue",
+    "foreground": "#0000ff",
+    "background": "#000000",
+    "enabled": false
+  }
+]
